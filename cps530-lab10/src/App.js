@@ -54,6 +54,7 @@ function App() {
             <h3>1. Installing the create-react-app Package</h3>
             <p className="App-paragraph">Although I had node installed, when I tried to run the command npx create-react-app cps530-lab10, it was giving me an error. This was because when I had installed react (npm install create-react-app) 
               I was running version 5.0.0 of create-react-app which was outdated. To get the latest version, I uninstalled the create-react-app package completely (npm uninstall -g create-react-app) and then installed it again (npm install create-react-app). I was then able to run 
+              the development server.
             </p>
           </div>
           <div>
