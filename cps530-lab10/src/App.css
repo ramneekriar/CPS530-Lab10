@@ -1,0 +1,47 @@
+.App {
+  margin: 15px;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  color: white;
+}
+
+.App-installation{
+  margin: 14px;
+}
+
+.App-span{
+  display: inline-block;
+  align-items: center;
+}
+
+.App-code{
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  background-color: black;
+  color: white;
+  padding: 8px;
+  margin-left: 2px;
+  margin-right: 2px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.App-step{
+  margin-top: 8px;
+}
+
+.App-problems{
+  margin: 14px;
+  padding-top: 10px;
+}
+
+.App-paragraph{
+  text-align: justify;
+}
