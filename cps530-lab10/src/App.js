@@ -39,10 +39,7 @@ function App() {
             <span>7. Modified the default App.js and App.css files with my own jsx and css code </span>
           </div>
           <div className="App-step">
-            <span>8. Modified the default App.js and App.css files with my own jsx and css code </span>
-          </div>
-          <div className="App-step">
-            <span>9. Push my code to my github repository using the following commands:</span>
+            <span>8. Push my code to my github repository using the following commands:</span>
             <div style={{marginLeft: "140px", marginTop: "8px"}}><span className="App-code">git add .</span><span> -- to stage all the new or modified files</span></div>
             <div style={{marginLeft: "140px", marginTop: "8px"}}><span className="App-code">git commit "commit message goes here"</span><span> -- to commit all changes with a brief description</span></div>
             <div style={{marginLeft: "140px", marginTop: "8px"}}><span className="App-code">git push main.</span><span> -- to push all changes to the repo's main branch</span></div>
